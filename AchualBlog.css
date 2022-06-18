@@ -1,0 +1,21 @@
+.containerrr{
+    display: flex; 
+    flex-direction: column;
+}
+
+
+.heading{
+   
+    font-size: 3rem;
+    color:  #082032;
+    font-size: 3.2rem;
+    padding: 2rem;
+}
+.paragraph-1{
+    font-size: 1.8rem;
+    padding: 2rem;
+}
+.clickk{
+    text-decoration: none;
+    color: #082032;
+}
